@@ -1,0 +1,20 @@
+Pelicula+Estructuras+0+Esponda
+Libro+Rayuela+150+sdasdas
+Revista+HI+52+tr
+Pelicula+Datos+0+Esponda
+Libro+De la Selva+50+sdasdas
+Revista+Hola+5+tr
+Libro Virtual+de la Selva+50+sdasdas
+Libro Virtual+Hola+50+sdasdas
+Pelicula+Tiburon2+0+Esponda
+Periodico+El Supuesto+30+asdweqw
+Libro Virtual+Rayuela+250+sdasdas
+Libro+Las Batallas en el desierto+132+asdadfasd
+Pelicula+Jaws+0+juan
+Libro+Psicoanalista+564+dsadfasd
+
+Pelicula+El codigo enigma+0+No se
+
+Libro+Casquito+56+gdfsdf
+
+Libro+Prueba+2+das
