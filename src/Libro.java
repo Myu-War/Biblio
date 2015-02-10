@@ -43,9 +43,13 @@ public class Libro extends ArticuloBiblioteca {
         return cad.toString();
     }
 
-    public int compareTo(Libro otro) {
+    public int compareTo(ArticuloBiblioteca otro) {
         int res = -1;
-        if (this.nombre.compareTo(otro.nombre) > 0) {
+        
+        if(otro.objeto!="Libro"){
+            res=compareTo(otro);
+        }
+        else if(this.nombre.compareTo(otro.nombre) > 0) {
             res = 1;
         }
 
